@@ -1,5 +1,5 @@
 0b7126e0c6e86d3ec295a72f5aa6e0bd
-::res://::1673804328
+::res://::1674593608
 icon.svg::CompressedTexture2D::1730451811002220422::1673803885::1673803885::1::::<><>::
 ::res://Audio/::1673803884
 ::res://Audio/GUI/::1673803884
@@ -17,14 +17,14 @@ Lose.ogg::AudioStreamOggVorbis::1928598063299509757::1673803884::1673803884::1::
 tornado.ogg::AudioStreamOggVorbis::3808718189389778733::1673803884::1673803884::1::::<><>::
 Victory.wav::AudioStreamWAV::623332474178172177::1673803884::1673803884::1::::<><>::
 woosh.wav::AudioStreamWAV::440255822710603500::1673803884::1673803884::1::::<><>::
-::res://Enemy/::1673803884
-enemy.gd::GDScript::-1::1673803884::0::1::::<>CharacterBody2D<>::
-enemy.tscn::PackedScene::4792410821905814946::1673803884::0::1::::<><>::uid://o3ct2rwtxdbn<>res://Enemy/enemy.gd
+::res://Enemy/::1673805311
+enemy.gd::GDScript::-1::1673805310::0::1::::<>CharacterBody2D<>::
+enemy.tscn::PackedScene::4792410821905814946::1673805311::0::1::::<><>::uid://o3ct2rwtxdbn<>res://Enemy/enemy.gd
 ::res://Font/::1673803884
 tenderness.otf::FontFile::4181885252840190657::1673803884::1673803884::1::::<><>::
-::res://Player/::1673803884
-player.gd::GDScript::-1::1673803884::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::2863854378884941416::1673803884::0::1::::<><>::res://Player/player.gd<>uid://bhwpy1qa5gti7
+::res://Player/::1673805311
+player.gd::GDScript::-1::1673804940::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::2863854378884941416::1673805311::0::1::::<><>::res://Player/player.gd<>uid://bhwpy1qa5gti7
 ::res://Textures/::1673803885
 dirt_full_new.png::CompressedTexture2D::1658158739998347120::1673803885::1673803885::1::::<><>::
 ::res://Textures/Enemy/::1673803884
@@ -61,5 +61,5 @@ sword.png::CompressedTexture2D::673910293583366773::1673803885::1673803885::1:::
 tornado.png::CompressedTexture2D::268419797201536960::1673803885::1673803885::1::::<><>::
 ::res://Textures/Player/::1673803885
 player_sprite.png::CompressedTexture2D::2924113904058179852::1673803885::1673803885::1::::<><>::
-::res://World/::1673803885
-world.tscn::PackedScene::5399443627892835646::1673803885::0::1::::<><>::uid://xvhvq2riomk3<>uid://bg2ji7jbqqeds<>uid://cajqkn2iyx2uw
+::res://World/::1673805454
+world.tscn::PackedScene::5399443627892835646::1673805454::0::1::::<><>::uid://xvhvq2riomk3<>uid://bg2ji7jbqqeds<>uid://cajqkn2iyx2uw
